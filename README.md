@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @myng-a.
-- 💞️ I’m interested in AI & AGI development.
-- 🌱 I’m currently delving deeper into AI.
-- 😄 I'd appreciate any suggestions on how to fix, improve, or enhance the code I upload!
-- ❤️ I love calulus; its embedded within my soul.
+
